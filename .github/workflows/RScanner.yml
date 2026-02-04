@@ -1,9 +1,5 @@
 name: Rust Proxy Scanner
 
-on:
-  workflow_dispatch: 
-
-
 jobs:
   update-proxies:
     runs-on: ubuntu-latest
